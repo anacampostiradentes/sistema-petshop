@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="1000" height="650" rx="20" fill="#eef2f7"/>
+<rect x="30" y="30" width="940" height="590" rx="16" fill="white" stroke="#ccc"/>
+<rect x="30" y="30" width="940" height="80" rx="16" fill="#24292f"/>
+<text x="65" y="80" fill="white" font-family="Arial" font-size="28" font-weight="bold">🐾 PetShop — Cadastro de Cliente</text>
+<text x="70" y="155" font-family="Arial" font-size="24" font-weight="bold">Novo cliente</text>
+<g font-family="Arial" font-size="17" fill="#333">
+<text x="70" y="205">Nome completo</text><text x="520" y="205">Telefone</text>
+<text x="70" y="300">E-mail</text><text x="520" y="300">Endereço</text>
+</g>
+<g fill="#fafafa" stroke="#bbb"><rect x="70" y="220" width="390" height="52" rx="8"/><rect x="520" y="220" width="390" height="52" rx="8"/>
+<rect x="70" y="315" width="390" height="52" rx="8"/><rect x="520" y="315" width="390" height="52" rx="8"/></g>
+<rect x="760" y="500" width="150" height="55" rx="10" fill="#24292f"/><text x="835" y="535" text-anchor="middle" fill="white" font-family="Arial" font-size="18">Salvar</text>
+<rect x="590" y="500" width="150" height="55" rx="10" fill="#eee"/><text x="665" y="535" text-anchor="middle" fill="#333" font-family="Arial" font-size="18">Cancelar</text>
+</svg>

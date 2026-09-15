@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" fill="#f8fafc"/>
+<rect x="310" y="55" width="500" height="540" rx="18" fill="white" stroke="#333" stroke-width="3"/>
+<text x="560" y="90" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">SISTEMA PETSHOP</text>
+<g font-family="Arial" font-size="18">
+<rect x="55" y="140" width="180" height="70" rx="12" fill="#e5e7eb" stroke="#333" stroke-width="2"/><text x="145" y="182" text-anchor="middle">Funcionário</text>
+<rect x="55" y="390" width="180" height="70" rx="12" fill="#e5e7eb" stroke="#333" stroke-width="2"/><text x="145" y="432" text-anchor="middle">Cliente</text>
+<rect x="850" y="140" width="180" height="70" rx="12" fill="#e5e7eb" stroke="#333" stroke-width="2"/><text x="940" y="182" text-anchor="middle">Administrador</text>
+</g>
+<g font-family="Arial" font-size="16">
+<g fill="#fff" stroke="#333" stroke-width="2">
+<ellipse cx="560" cy="145" rx="145" ry="30"/><ellipse cx="560" cy="215" rx="145" ry="30"/>
+<ellipse cx="560" cy="285" rx="145" ry="30"/><ellipse cx="560" cy="355" rx="145" ry="30"/>
+<ellipse cx="560" cy="425" rx="145" ry="30"/><ellipse cx="560" cy="495" rx="145" ry="30"/>
+</g>
+<g text-anchor="middle">
+<text x="560" y="151">Cadastrar cliente</text><text x="560" y="221">Cadastrar pet</text>
+<text x="560" y="291">Agendar serviço</text><text x="560" y="361">Registrar atendimento</text>
+<text x="560" y="431">Cadastrar produto</text><text x="560" y="501">Registrar venda</text>
+</g></g>
+<g stroke="#333" stroke-width="2" fill="none">
+<line x1="235" y1="175" x2="415" y2="145"/><line x1="235" y1="175" x2="415" y2="215"/>
+<line x1="235" y1="175" x2="415" y2="285"/><line x1="235" y1="175" x2="415" y2="355"/>
+<line x1="235" y1="175" x2="415" y2="425"/><line x1="235" y1="175" x2="415" y2="495"/>
+<line x1="235" y1="425" x2="415" y2="285"/><line x1="235" y1="425" x2="415" y2="355"/>
+<line x1="850" y1="175" x2="705" y2="425"/><line x1="850" y1="175" x2="705" y2="495"/>
+</g></svg>
