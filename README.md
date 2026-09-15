@@ -54,6 +54,7 @@ O projeto possui uma página de documentação em `docs/index.html`, preparada p
 
 ## Equipe
 - Raica Pinheiro
+- Samuel Vinha
 - Ana Beatriz
 - Turma: 3°D
 
